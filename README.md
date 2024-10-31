@@ -1,5 +1,5 @@
 Información del proyecto:
-EcoFive, una startup de estudiantes de la UPC, ha desarrollado EcoHabit, una producto que ayuda a gestionar la huella ecológica diaria. El producto monitorea el consumo de recursos y fomenta hábitos sostenibles mediante retos diarios, integrándose con dispositivos inteligentes.
+EcoFive, una startup de estudiantes de la UPC, ha desarrollado EcoHabit, una producto que ayuda a gestionar la huella ecológica diaria. El producto monitorea el consumo de recursos y fomenta hábitos sostenibles mediante retos diarios.
 
 Autores:
 - Aguirre Gutierrez, Diego Alexander
