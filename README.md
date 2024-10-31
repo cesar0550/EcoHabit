@@ -14,19 +14,21 @@ Autores:
 Segmentos Objetivo:
 1.	Profesionales Conscientes del Medio Ambiente
 Datos demográficos:
-  •	Edad: Principalmente personas que tengan entre 20 a 35 años.
 
-  •	Ocupación: Profesionales, estudiantes universitarios, y recién graduados.
+    •	Edad: Principalmente personas que tengan entre 20 a 35 años.
+
+    •	Ocupación: Profesionales, estudiantes universitarios, y recién graduados.
   
-  •	País de residencia: Perú.
+    •	País de residencia: Perú.
   
 3.	Familias con Interés en la Sostenibilidad
 Datos demográficos:
-  •	Edad: Adultos entre 25 a 50 años.
 
-  •	Ocupación: Profesionales con hijos, interesados en educar a su familia en prácticas sostenibles.
+    •	Edad: Adultos entre 25 a 50 años.
+
+    •	Ocupación: Profesionales con hijos, interesados en educar a su familia en prácticas sostenibles.
   
-  •	País de residencia: Perú.
+    •	País de residencia: Perú.
 
 Principales características ofrecidas por la solución digital:
 Esta solución tiene como objetivo ayudar a los usuarios a monitorear su consumo de recursos, como agua, electricidad y alimentos, integrándose con dispositivos inteligentes del hogar para ofrecer datos en tiempo real. Además, EcoHabit fomenta la adopción de hábitos sostenibles a través de retos diarios y comparativas con la comunidad, promoviendo un estilo de vida más ecológico. Como valor agregado, EcoHabit está comprometida con la educación ambiental, guiando a las personas en su camino hacia una vida más sostenible y reduciendo su impacto ambiental.
