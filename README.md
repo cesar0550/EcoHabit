@@ -9,7 +9,7 @@ Autores:
 - Mondragón Pinedo, Alan
 - Navarro Correa, César Augusto
 - Rosales Pantaleón, Alfieri Esteban
-
+- Ruiz Cruz, Sebastián William
 
 Segmentos Objetivo:
 1.	Profesionales Conscientes del Medio Ambiente
