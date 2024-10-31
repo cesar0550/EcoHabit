@@ -28,7 +28,7 @@ Segmentos Objetivo:
 
     •	Edad: Adultos entre 25 a 50 años.
   	
-    •	Ocupación: Profesionales con hijos.
+    •	Ocupación: Profesionales con hijos, interesados en educar a su familia en prácticas sostenibles.
   	
     •	País de residencia: Perú.
 
