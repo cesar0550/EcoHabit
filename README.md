@@ -8,6 +8,7 @@ Autores:
 - Mora Blas, Diego Alonzo
 - Mondragón Pinedo, Alan
 - Navarro Correa, César Augusto
+- Rosales Pantaleón, Alfieri Esteban
 
 
 Segmentos Objetivo:
