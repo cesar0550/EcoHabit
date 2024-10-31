@@ -6,6 +6,7 @@ Autores:
 - Camus Dominguez, Luis Diego
 - Carrión Valdez, Daniel Alejandro
 - Mora Blas, Diego Alonzo
+- Mondragón Pinedo, Alan
 
 
 Segmentos Objetivo:
