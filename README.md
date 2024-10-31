@@ -13,7 +13,8 @@ Autores:
 
 Segmentos Objetivo:
 1.	Profesionales Conscientes del Medio Ambiente
-Datos demográficos:
+
+    Datos demográficos:
 
     •	Edad: Principalmente personas que tengan entre 20 a 35 años.
 
@@ -22,7 +23,8 @@ Datos demográficos:
     •	País de residencia: Perú.
   
 3.	Familias con Interés en la Sostenibilidad
-Datos demográficos:
+
+    Datos demográficos:
 
     •	Edad: Adultos entre 25 a 50 años.
 
