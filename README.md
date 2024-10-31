@@ -5,6 +5,7 @@ Autores:
 - Aguirre Gutierrez, Diego Alexander
 - Camus Dominguez, Luis Diego
 - Carrión Valdez, Daniel Alejandro
+- Mora Blas, Diego Alonzo
 
 
 Segmentos Objetivo:
