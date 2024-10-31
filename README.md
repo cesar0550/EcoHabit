@@ -7,6 +7,7 @@ Autores:
 - Carrión Valdez, Daniel Alejandro
 - Mora Blas, Diego Alonzo
 - Mondragón Pinedo, Alan
+- Navarro Correa, César Augusto
 
 
 Segmentos Objetivo:
