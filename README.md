@@ -3,13 +3,7 @@ EcoFive, una startup de estudiantes de la UPC, ha desarrollado EcoHabit, una pro
 
 Autores:
 - Aguirre Gutierrez, Diego Alexander
-- Camus Dominguez, Luis Diego
-- Carrión Valdez, Daniel Alejandro
-- Mora Blas, Diego Alonzo
-- Mondragón Pinedo, Alan
-- Navarro Correa, César Augusto
-- Rosales Pantaleón, Alfieri Esteban
-- Ruiz Cruz, Sebastián William
+
 
 Segmentos Objetivo:
 1.	Profesionales Conscientes del Medio Ambiente
