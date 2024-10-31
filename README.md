@@ -3,6 +3,7 @@ EcoFive, una startup de estudiantes de la UPC, ha desarrollado EcoHabit, una pro
 
 Autores:
 - Aguirre Gutierrez, Diego Alexander
+- Camus Dominguez, Luis Diego
 
 
 Segmentos Objetivo:
