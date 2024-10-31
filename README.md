@@ -17,9 +17,7 @@ Segmentos Objetivo:
     Datos demográficos:
 
     •	Edad: Principalmente personas que tengan entre 20 a 35 años.
-
     •	Ocupación: Profesionales, estudiantes universitarios, y recién graduados.
-  
     •	País de residencia: Perú.
   
 3.	Familias con Interés en la Sostenibilidad
@@ -27,9 +25,7 @@ Segmentos Objetivo:
     Datos demográficos:
 
     •	Edad: Adultos entre 25 a 50 años.
-
     •	Ocupación: Profesionales con hijos, interesados en educar a su familia en prácticas sostenibles.
-  
     •	País de residencia: Perú.
 
 Principales características ofrecidas por la solución digital:
