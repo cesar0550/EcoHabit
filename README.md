@@ -22,7 +22,7 @@ Segmentos Objetivo:
   	
     •	País de residencia: Perú.
   
-3.	Familias con Interés en la Sostenibilidad
+2.	Familias con Interés en la Sostenibilidad
 
     Datos demográficos:
 
